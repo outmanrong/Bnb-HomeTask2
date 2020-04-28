@@ -1,0 +1,13 @@
+.app.dark {
+  background-color: black;
+  color: white;
+}
+.header.dark {
+  background-color: #4b4b4b;
+}
+.footer.dark {
+  background-color: #cccc99;
+}
+.content.dark {
+  background-color: #ffcc99;
+}
